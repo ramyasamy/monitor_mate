@@ -39,7 +39,7 @@ def log_to_database(url, status, response_time):
     conn.close()
 
 def log_status(status_message):
-    with open("logs/alert_log.txt", "a") as log_file:
+    with open(pwd+"/logs/alert_log.txt", "a") as log_file:
         log_file.write(f"{datetime.now()} - {status_message}\n")
 
 if __name__ == "__main__":
