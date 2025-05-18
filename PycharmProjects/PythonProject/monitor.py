@@ -6,7 +6,7 @@ import sqlite3
 from datetime import datetime
 import os
 
-pwd = os.getcwd()
+pwd = "/users/ramyamunusamy/PycharmProjects/PythonProject/"
 configPath = os.path.join(pwd, 'config.json')
 
 logging.basicConfig(level=logging.INFO)
