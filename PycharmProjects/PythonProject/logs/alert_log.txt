@@ -2,3 +2,13 @@
 2025-05-16 12:00:00.337625 - [2025-05-16 12:00:00.336988] https://geeksforgeeks.org is UP
 2025-05-16 12:01:09.144020 - [2025-05-16 12:01:09.143485] https://geeksforgeeks.org is UP
 2025-05-16 12:02:49.140558 - [2025-05-16 12:02:49.140337] https://geeksforgeeks.org is UP
+2025-05-17 16:37:16.418810 - [2025-05-17 16:37:16.418388]  https://geeksforgeeks.org is Up. Response time 1.239908218383789
+2025-05-17 16:37:45.852235 - [2025-05-17 16:37:45.852025]  https://geeksforgeeks.org is Up. Response time 1.2945518493652344
+2025-05-17 16:37:59.246599 - [2025-05-17 16:37:59.246291]  https://geeksforgeeks.org is Up. Response time 1.2505710124969482
+2025-05-17 16:39:09.867673 - [2025-05-17 16:39:09.867389]  https://geeksforgeeks.org is Up. Response time 1.2601902484893799
+2025-05-17 16:41:33.380749 - [2025-05-17 16:41:33.379490]  https://geeksforgeeks.org is Up. Response time 1.1349329948425293
+2025-05-17 16:41:33.386453 - [2025-05-17 16:41:33.386304]  www.facebook.com is Down. Response time 0.0
+2025-05-17 16:42:13.874376 - [2025-05-17 16:42:13.873779]  https://geeksforgeeks.org is Up. Response time 1.111440896987915
+2025-05-17 16:42:13.888375 - [2025-05-17 16:42:13.888204]  www.facebook.com is Down. Response time 0.0
+2025-05-17 16:43:53.332712 - [2025-05-17 16:43:53.331702]  https://geeksforgeeks.org is Up. Response time 1.5981221199035645
+2025-05-17 16:43:54.041573 - [2025-05-17 16:43:54.041261]  https://facebook.com is Up. Response time 0.7012672424316406
